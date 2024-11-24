@@ -1,6 +1,6 @@
 # raft-java
 Raft implementation library for Java.  
-Refer and optimize based on (https://github.com/wenweihu86/raft-java)。
+Refer and optimize based on (https://github.com/wenweihu86/raft-java)
 
 # Supported Features
 - Leader election
